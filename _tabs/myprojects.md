@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: page
 title: My Projects
 icon: fas fa-archive
 order: 5
