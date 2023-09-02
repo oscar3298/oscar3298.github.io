@@ -27,11 +27,18 @@ After the problems have been identified, we can proceed to the next step where i
 
 - To improve the sanitation of the delivery box, a can be created that the box can be sanitized before taken into the house.
 - Having an additional handle bar that can be a substitute to the main handle bar that pulled by hand. Since our feet are already covered with shoes, we do not need to worry about having a contact with non-sterile public objects such as door handle bar. 
-- Lastly, a headlamp-like device is created and will be worn on the hip. However, unlike regular headlamps, this device can be used both - uring daylight which uses laser beam, and nighttime with LED beam. This is beneficial to pedestrian not only as a lighting device, but it is design that the beam is illuminated at a desired distance from the user. This will help them to stay away from each other.
+- Lastly, a headlamp-like device is created and will be worn on the hip. However, unlike regular headlamps, this device can be used both - during daylight which uses laser beam, and nighttime with LED beam. This is beneficial to pedestrian not only as a lighting device, but it is design that the beam is illuminated at a desired distance from the user. This will help them to stay away from each other.
 
 # Detailed Sketches of LED BEAM BELT
 
 **INSERT PICTURES HERE**
+| :---: | :---: | :---: |
+| **IMAGE1** | **IMAGE2** | **IMAGE3** |
+| **IMAGE4** | **IMAGE5** | **IMAGE6** |
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 # Sketches of Door Handle and Box Sanitizer
 
