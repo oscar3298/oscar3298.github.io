@@ -3,7 +3,14 @@ title: Conceptual Design: COVID PPE
 date: 2022-05-23 12:00:00 -500
 categories: [homelab, hardware]
 tags: [server, dell, hp, supermicro] # TAG names should always be lowercase
+
+
+layout: page
+icon: fas fa-tags
+order: 1
+Parent: My Projects
 ---
+
 
 # Objectives
 
